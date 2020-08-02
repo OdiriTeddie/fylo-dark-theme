@@ -30,7 +30,7 @@
 .how-it-works__row {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;  
+    
 }
 
 .how-it-works__img {
@@ -40,6 +40,7 @@
 
 .how-it-works__details {
     width: 37%;
+    align-self: flex-end; 
 }
 
 .how-it-works__details p{

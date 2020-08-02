@@ -35,13 +35,12 @@
 }
 
 .how-it-works__img {
-    width: 60%;
-    
+    width: 100%;
 }
 
 .how-it-works__details {
-   width: 35%;
- 
+   width: 55%;
+    margin-left: 2em;
 }
 
 .how-it-works__details p{
