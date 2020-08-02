@@ -29,7 +29,7 @@
 
 .how-it-works__row {
     display: flex;
-    justify-content: space-between;
+    
     align-items: flex-end;
     
 }
@@ -39,12 +39,17 @@
 }
 
 .how-it-works__details {
-   width: 55%;
+    width: 70%;
     margin-left: 2em;
 }
 
 .how-it-works__details p{
    font-size : 1rem;
+}
+
+.how-it-works__details .section-subtitle {
+    font-size : 3rem;
+    font-weight: 400;
 }
 
 

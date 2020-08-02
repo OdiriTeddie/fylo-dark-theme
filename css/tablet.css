@@ -41,6 +41,7 @@
 .how-it-works__details {
     width: 37%;
     align-self: flex-end; 
+    margin-left: 2em;
 }
 
 .how-it-works__details p{
